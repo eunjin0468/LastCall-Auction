@@ -96,7 +96,7 @@ LastCall은 상품 등록부터 입찰, 예약, 낙찰 정산까지의 과정을
 ---
 
 ## 🗃ERD <a id="erd"></a>
-<img width="1527" height="813" alt="image" src="https://github.com/user-attachments/assets/1ac04cee-d4e6-4eed-a0dd-4f64c20bd5c1" />
+<img width="600" height="813" alt="image" src="https://github.com/user-attachments/assets/1ac04cee-d4e6-4eed-a0dd-4f64c20bd5c1" />
 
 ---
 
@@ -111,7 +111,7 @@ LastCall은 상품 등록부터 입찰, 예약, 낙찰 정산까지의 과정을
 ---
 
 ## 🖼️와이어 프레임 <a id="와이어-프레임"></a>
-<img width="11568" height="5055" alt="image" src="https://github.com/user-attachments/assets/50580245-4504-470f-8262-a76cfe6b0f68" />  
+<img width="600" height="5055" alt="image" src="https://github.com/user-attachments/assets/50580245-4504-470f-8262-a76cfe6b0f68" />  
 
 [👉 Figma](https://www.figma.com/design/MXc4uESnjz8e0S8crq0Qi1/%EA%B2%BD%EB%A7%A4?node-id=0-1&p=f&m=draw)
 
@@ -122,7 +122,7 @@ LastCall은 상품 등록부터 입찰, 예약, 낙찰 정산까지의 과정을
 <img width="600" height="600" alt="Image" src="https://github.com/user-attachments/assets/ada70ad3-8bbe-4874-9705-756161d1e367" />
 
 ## 🧪테스트 <a id="테스트"></a>
-<img width="746" height="354" alt="스크린샷 2025-11-18 오후 2 33 32" src="https://github.com/user-attachments/assets/01c3b0cf-5048-4f22-91f2-cafd239e312d" />  
+<img width="600" height="354" alt="스크린샷 2025-11-18 오후 2 33 32" src="https://github.com/user-attachments/assets/01c3b0cf-5048-4f22-91f2-cafd239e312d" />  
 
 ### 단위 테스트
 - 각 도메인 별 서비스 단위 테스트 작성 후 검증
@@ -144,7 +144,7 @@ LastCall은 상품 등록부터 입찰, 예약, 낙찰 정산까지의 과정을
 - 적용 이유 : 데이터가 많아질 경우 테이블 full scan이 빈번하게 발생할 것으로 예상됨  
 
 **2️⃣ 결과**  
-<img width="1201" height="433" alt="image" src="https://github.com/user-attachments/assets/fd4e2f11-8827-4765-8628-2ade851ad43a" />
+<img width="600" height="433" alt="image" src="https://github.com/user-attachments/assets/fd4e2f11-8827-4765-8628-2ade851ad43a" />
 <img width="532" height="149" alt="image" src="https://github.com/user-attachments/assets/5bdb58dc-b0c5-4b49-bd42-f051032b8bc2" />
 
 **3️⃣ 해석**
@@ -172,7 +172,7 @@ LastCall은 상품 등록부터 입찰, 예약, 낙찰 정산까지의 과정을
    	- 포인트 변경 시 캐시 무효화(`@CacheEvict`)로 최신성 보장
 
 **2️⃣ 결과**  
-<img width="2400" height="866" alt="image" src="https://github.com/user-attachments/assets/10d70b67-7ad5-4a1b-86d8-bc6f1981d30d" />
+<img width="600" height="866" alt="image" src="https://github.com/user-attachments/assets/10d70b67-7ad5-4a1b-86d8-bc6f1981d30d" />
 <img width="533" height="148" alt="image" src="https://github.com/user-attachments/assets/5c9bffc2-b5d2-47e5-b0f1-f2fa5abdfe04" />
 
 **3️⃣ 해석**
