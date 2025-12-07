@@ -24,7 +24,6 @@ public class SignalingMessage {
     this.data = data;
   }
 
-  // JOIN 응답 메시지
   public static SignalingMessage ofJoinResult(String receiver, boolean result) {
     return SignalingMessage.builder()
         .type("join")
